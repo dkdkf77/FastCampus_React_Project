@@ -11,11 +11,11 @@
 ### {yarn or npm} start
  - react-scripts start
  - startin the development server
-### npm run build
+### npm run build - 프로덕션 용 
  - react-scripts build
  - Creating an optimized production build..
-### npm test
+### npm test 
   - react-scrips test
   - jest를 통해 test code를 실행
-### npm run eject
+### npm run eject 
   - react-scripts eject
